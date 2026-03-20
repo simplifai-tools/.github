@@ -1,11 +1,10 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://simplifai.tools/og-image.png">
-    <img src="https://simplifai.tools/og-image.png" width="480" alt="SimplifAI">
-</picture>picture>
+<img src="https://raw.githubusercontent.com/simplifai-tools/.github/main/profile/logo.svg" width="80" height="80" alt="SimplifAI logo">
 
-### AI-powered tools for indie hackers. Ship smarter, grow faster.
+# SimplifAI
+
+**AI-powered tools for indie hackers. Ship smarter, grow faster.**
 
 [![Website](https://img.shields.io/badge/simplifai.tools-Visit%20Site-6C3BF5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://simplifai.tools)
 [![Email](https://img.shields.io/badge/hello%40simplifai.tools-Contact%20Us-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@simplifai.tools)
