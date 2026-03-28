@@ -23,21 +23,21 @@ Our tools help you validate ideas, understand your market, and optimize your Saa
 
 | Tool | Description |
 |------|-------------|
-| **LLMeter** | Benchmark and compare LLM providers. Find the best model for your use case by price, speed, and quality. |
-| **SaaS Pulse** | AI-powered SaaS analytics. Track MRR, churn, and growth metrics with intelligent insights. |
+| [**LLMeter**](https://llmeter.org) | Benchmark and compare LLM providers. Find the best model for your use case by price, speed, and quality. |
+| [**SaaS Pulse**](https://saaspulse.dev) | AI-powered SaaS analytics. Track MRR, churn, and growth metrics with intelligent insights. |
+| **IndieDunning** | Automated failed-payment recovery for indie SaaS. Reduce involuntary churn with smart retry logic. |
+| **SaaS Listener** | Real-time social listening for SaaS builders. Monitor Reddit, X, and communities for leads and signals. |
 
-> More tools coming soon. Follow us to stay updated!
->
-> ## Get Involved
->
-> - Visit our website at **[simplifai.tools](https://simplifai.tools)**
-> - - Star our repos if you find them useful
->   - - Open issues for bugs or feature requests
->     - - PRs are always welcome
->      
->       - <div align="center">
+## Get Involved
+
+- Visit our website at **[simplifai.tools](https://simplifai.tools)**
+- Star our repos if you find them useful
+- Open issues for bugs or feature requests
+- PRs are always welcome
 
 ---
+
+<div align="center">
 
 **Built with AI, for builders.**
 
